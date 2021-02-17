@@ -1,0 +1,7 @@
+numba
+numpy
+scikit-image
+scikit-learn
+filterpy
+opencv
+Pillow
